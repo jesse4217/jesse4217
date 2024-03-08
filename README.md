@@ -1,5 +1,5 @@
 # Jesse Jiang
-- 🧠 An iOS engineer for one and a half years
+- 👨🏻‍💻 iOS engineer
 - 🌍 Based in Tokyo
 - ✉️ Contact me at [jessejiang010@gmail.com](mailto:jessejiang010@gmail.com)
 

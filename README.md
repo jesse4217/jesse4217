@@ -1,3 +1,4 @@
 # Jesse J
 - 👨🏻‍💻 Software Engineer
-- 🌍 Based in Tokyo
+- 🌍 Based in Tokyo🗼
+- 🥋 Judo Lover

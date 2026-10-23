@@ -1,4 +1,7 @@
-# J J
-- 👨🏻‍💻 Software Engineer
-- 🗼 in Tokyo
-- 🥋 Judo Lover
+# Jesse Jiang
+
+Cloud Engineering Consultant ☁️
+
+Azure, AWS · Terraform · Cloud Architecture · AI
+
+🥋 Judo Lover
